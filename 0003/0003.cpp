@@ -30,4 +30,6 @@ int main()
     }
     
     cout << potentiallyPrimeNumber << endl;
+
+    return 0;
 }
